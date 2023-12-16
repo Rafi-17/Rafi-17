@@ -14,3 +14,25 @@
 - 📫 How to reach me: tahmidulrafi13@gmail.com
 - ⚡ Fun fact: I like gaming besides developing
 
+### Technologies or Languages I know
+***
+<div style="display: flex; justify-content: center; align-items: center;">
+<div>
+  <img src="/images/c.png"/>
+<img src="/images/cpp.png"/>
+<img src="/images/python.png"/>
+<img src="/images/HTML.png"/>
+</div>
+<div>
+  <img src="/images/css.png"/>
+<img src="/images/JavaScript.png"/>
+<img src="/images/react.png"/>
+<img src="/images/tailwind.png"/>
+</div>
+<div>
+  <img src="/images/firebase.png"/>
+<img src="/images/node.png"/>
+<img src="/images/express.png"/>
+<img src="/images/mongo.png"/>
+</div>
+  </div>
