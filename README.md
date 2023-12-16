@@ -1,7 +1,4 @@
-![The San Juan Mountains are beautiful!](/images/banner.jpg)
-
-### <div style='position: absolute; padding-left:20px; color: black; top: -250px; text-align: center; font-weight: 700; font-size:20px '><p style='margin-bottom:120px'>Tahmidul Kabir Rafi</p><p>React Developer</p><p></p></div>
-### <div style='position: absolute; padding-left:20px; color: black; top: -250px; text-align: center; font-weight: 700; font-size:20px '>Tahmidul Kabir</div>
+![The San Juan Mountains are beautiful!](/images/coverImage.jpg)
 
 
 
