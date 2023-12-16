@@ -1,7 +1,7 @@
 ![The San Juan Mountains are beautiful!](/images/coverImage.jpg)
-
-
-
+### Latest Status
+***
+<a style="margin-left: auto; margin-right: auto;" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rafi-17&theme=github-dark-dimmed&hide_border=true&card_width=800" alt="GitHub Streak" /></a>
 ### Hi there 👋
 
 
