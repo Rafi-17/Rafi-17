@@ -2,19 +2,15 @@
 ### Latest Status
 ***
 <a style="margin-left: auto; margin-right: auto;" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rafi-17&theme=github-dark-dimmed&hide_border=true&card_width=800" alt="GitHub Streak" /></a>
-### Hi there 👋
 
 
-**Rafi-17/Rafi-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Personal Overview
+***
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on React and Git
+- 🌱 I’m currently learning NextJs
+- 👯 I’m looking to contribute to a project on a software company
+- 🤔 I’m interested in using Tailwind & daisyUI
+- 📫 How to reach me: tahmidulrafi13@gmail.com
+- ⚡ Fun fact: I like gaming besides developing
 
